@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:f09898,100:f5e161&height=120&text=Welcome%20to%20I%20Kyung%20hub&animation=fadeIn&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">공공기관 웹페이지 리뉴얼 - 마사회 </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">반갑습니다. 한이경입니다:)</h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 반갑습니다. 한이경입니다. <br> </li>꾸준히 앞으로 나아가는 개발자가 되겠습니다. </div> 
     </div>
     <div align= "center">
