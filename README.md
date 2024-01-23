@@ -4,7 +4,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 반갑습니다. 한이경입니다:) </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 반갑습니다. 한이경입니다 <br>.</li>꾸준히 앞으로 나아가는 개발자가 되겠습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 반갑습니다. 한이경입니다. <br> </li>꾸준히 앞으로 나아가는 개발자가 되겠습니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
