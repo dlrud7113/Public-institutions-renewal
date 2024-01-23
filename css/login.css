@@ -1,0 +1,208 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@100;300;400;500;600;700;800;900&display=swap');
+
+* {font-family: 'Gothic A1', sans-serif;
+}
+
+body{
+  position: relative;
+}
+:root{
+  --pointColor1: #104885;
+  --pointColor2:#1CA697
+  --gray1: #7F7F7F;
+  --fontColor: #515151;
+  --title-font: #626262;
+}
+.login_layout{
+  background-color: rgba(43, 42, 42, 0.84);
+  position: fixed;
+  width: 100%;;
+  z-index: 1000;
+  height: 100vh;
+  top: 0;
+  /* 모달 가리기 서서히 보이게하기*/
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.5s ease,
+  visibility 0.5s ease-in-out;
+}
+/* 모달 엑티브 보이게 */
+.login_layout.active{
+  opacity: 1;
+  visibility: visible;
+}
+
+.login{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  margin: auto;
+  width: 1000px;
+  height: 750px;
+  display: flex;
+}
+
+.login_left{
+  position: relative;
+  width:500px;
+  background-color:#0f4580;
+}
+.login_title{
+  color: white;
+  margin-top: 100px;
+  margin-left: 80px;
+  position: relative;
+}
+
+.login_title h2{
+  font-size: 35px;
+  font-weight: 400;
+  line-height: 54px;
+
+}
+.login_title span{
+  font-size: 60px;
+  color: #1da394;
+  font-weight: 700;
+}
+.login_title p{
+  margin-top: 30px;
+  font-size: 17px;
+  color: rgba(255, 255, 255, 0.788);
+}
+.login_left img{
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+}
+.login_right{
+  background-color: white;
+position: relative;
+  flex: 1;
+}
+.close{
+  position: absolute;
+  right: 0;
+  padding: 1rem;
+}
+#log_logo{
+  margin-left: 150px;
+  margin-top: 70px;
+}
+.login_right h1{
+  margin-bottom: 20px;
+margin-left: 60%;
+transform: translateX(-50%);
+padding: 2rem;
+  font-size: 35px;
+  font-weight: 600;
+  color: rgb(126, 126, 126);
+}
+form{
+  margin-top: 120px;
+  margin-left: 60px;
+  width: 100%;
+}
+
+.input_field{
+  position: relative;
+}
+.input_field input{
+  margin: auto;
+  width: 72%;
+  height: 50px;
+ border: none;
+ border-bottom: 1px solid rgb(51, 51, 51);
+  margin-top: 20px;
+  outline: none;
+  
+}
+.input_field span{
+  font-size: 18px;
+  position: absolute;
+  top: 65%;
+  left: 10px;
+  transform: translateY(-50%);
+  color: #707070;
+}
+
+.input_field input:focus + span{
+  top: 20px;
+  font-size: 0.7rem;
+  pointer-events: none;
+  font-weight: 500;
+}
+.input_field span.warning{
+color: crimson;
+animation: warning 0.3s;
+}
+
+@keyframes warning{
+  0%{
+    transform: translateX(0px);
+  }
+  25%{
+    transform: translateX(-8px);
+  }
+  50%{
+    transform: translateX(8px);
+  }
+  100%{
+    transform: translateX(0px);
+  }
+}
+
+#save_email:checked + em + span{
+color: #1CA697;
+} 
+
+.button_field input{
+  width: 72%;
+  height: 55px;
+  border-radius: 20px;
+  background-color: #1CA697;
+  border: none;
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  bottom: 24%;
+  margin-left: 5px;
+}
+
+.button_field input:hover{
+  background-color:  #046b5f;
+  transition: 0.3s;
+}
+
+.add_info{
+  margin-top: 30px;
+}
+.add_info label{}
+.find{
+position: absolute;
+left: 27%;
+bottom: 17%;
+}
+.warning{
+  color: rgb(95, 95, 95);
+}
+.find a{
+  font-weight: 500;
+  color: rgb(138, 138, 138);
+  padding-right:20px ;
+  font-size: 16px;
+}
+.find a:hover{
+  transition: 0.2s;
+  color: #046b5f;
+  font-weight: 600;
+}
+#find_ID::after{
+  content: 'l';
+  width: 1px;
+  height: 3px;
+  margin-left: 25px;
+  color:rgb(138, 138, 138);
+}

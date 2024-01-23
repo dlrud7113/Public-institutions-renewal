@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    .container {
+      margin: 50px auto;
+      width: 800px;
+      display: flex; /* Flexbox 사용 */
+      overflow: hidden; /* 넘치는 컨텐츠 숨김 */
+    }
+
+    .tab {
+      background: #ccc;
+      flex: 1; /* 동일한 너비를 갖도록 설정 */
+      cursor: pointer;
+      height: 200px;
+      overflow: hidden;
+      transition: opacity 0.3s ease; /* 투명도 전환 효과 */
+    }
+
+    .content {
+      background: #eee;
+      width: 0;
+      opacity: 0;
+      height: 200px;
+      overflow: hidden;
+      transition: width 0.3s ease, opacity 0.3s ease; /* 너비 및 투명도 전환 효과 */
+    }
+
+    .active {
+      width: 80%; /* 활성화된 content를 너비 40%로 설정 */
+      opacity: 1; /* 활성화된 content의 투명도를 1로 설정하여 나타내기 */
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="tab">Tab 1</div>
+    <div class="content">
+      <img src="../images/park1.png" alt="">
+    </div>
+    <div class="tab">Tab 2</div>
+    <div class="content">
+      <img src="../images/park2.png" alt="">
+    </div>
+    <div class="tab">Tab 3</div>
+    <div class="content">
+      <img src="../images/park3.png" alt="">
+    </div>
+  </div>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      "use strict";
+      const tabs = document.querySelectorAll('.tab');
+      const contents = document.querySelectorAll('.content');
+
+      tabs.forEach(function(tab, index) {
+        tab.addEventListener('click', function() {
+          // 현재 클릭된 탭에 .active 클래스 추가
+          tabs.forEach(function(tab) {
+            tab.classList.remove('active');
+          });
+          this.classList.add('active');
+
+          // 클릭된 탭에 해당하는 content에 .active 클래스 추가
+          contents.forEach(function(content) {
+            content.classList.remove('active');
+          });
+          contents[index].classList.add('active');
+        });
+      });
+    });
+  </script>
+</body>
+</html>
