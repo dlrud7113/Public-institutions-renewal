@@ -13,6 +13,13 @@
 
 - 메인페이지와 두개의 서브페이지는(로그인모달창, 공지사항)로 구성되어 있습니다.
 
+  ## 🚀 링크
+
+- [브레인 스토밍](https://www.figma.com/file/qgus4C2CV7IBBo58946e9B/%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80-%EB%A6%AC%EC%84%9C%EC%B9%98-%EB%B0%8F-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EB%B0%9C%EC%83%81?type=whiteboard&node-id=0%3A1&t=rUeX71aUqcMR0HA6-1)
+- [와이어프레임 및 디자인](https://www.figma.com/file/ZAgOTqfJ2c4XzUFA3Xs2xf/%ED%95%9C%EC%9D%B4%EA%B2%BD_portfolio?type=design&node-id=0%3A1&mode=design&t=9dWx1yEIcWIqRUA5-1)
+- [리뉴얼 사이트](https://dlrud7113.github.io/project02/)
+  
+
 ## 💻 개발 환경
 
 - 개발 환경 : <img src="https://img.shields.io/badge/windows10-0078D6?style=flat-square&logo=windows10&logoColor=white"/>
@@ -110,9 +117,5 @@
 | 공공기관 이미지에 맞는 반듯하고 정돈된 분위기로 구성했습니다.
 
 
-## 🚀 링크
 
-- [브레인 스토밍](https://www.figma.com/file/qgus4C2CV7IBBo58946e9B/%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80-%EB%A6%AC%EC%84%9C%EC%B9%98-%EB%B0%8F-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EB%B0%9C%EC%83%81?type=whiteboard&node-id=0%3A1&t=rUeX71aUqcMR0HA6-1)
-- [와이어프레임 및 디자인](https://www.figma.com/file/ZAgOTqfJ2c4XzUFA3Xs2xf/%ED%95%9C%EC%9D%B4%EA%B2%BD_portfolio?type=design&node-id=0%3A1&mode=design&t=9dWx1yEIcWIqRUA5-1)
-- [리뉴얼 사이트](https://dlrud7113.github.io/project02/)
     
