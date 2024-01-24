@@ -100,7 +100,7 @@
 | <img src="https://private-user-images.githubusercontent.com/153471342/299154318-a39a0e62-e40e-4dc3-b2ed-dd673d5c6218.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYwNjIxNDQsIm5iZiI6MTcwNjA2MTg0NCwicGF0aCI6Ii8xNTM0NzEzNDIvMjk5MTU0MzE4LWEzOWEwZTYyLWU0MGUtNGRjMy1iMmVkLWRkNjczZDVjNjIxOC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNFQwMjA0MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZWM0ZjZhYzA2ZmFkZTY5ZmRlNDE0NjY1NTg3OTkyZmRhNmM5NDMxZGU0ZDJjMWZhZTVjNmY2NGVhYWFkZGJmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.sgWtif0YuLMoVL_9f2FReY3N2-rh6rEQWbukiajWd78"> |
 
 | 해당 로그인 버튼을 클릭하면 로그인 모달창이 뜨는 형식입니다.
-| 
+
 
 <br>
 
@@ -113,8 +113,7 @@
 
 ## 🚀 링크
 
-- [브레인 스토밍](https://www.figma.com/file/oBwENj8ztJ16EG1kEIcWfQ/SeaLifeBusan_BrainStorming?type=whiteboard&node-id=0%3A1&t=MtGvKwQ1gnpEXTrR-1)
-
+- [브레인 스토밍](https://www.figma.com/file/qgus4C2CV7IBBo58946e9B/%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80-%EB%A6%AC%EC%84%9C%EC%B9%98-%EB%B0%8F-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EB%B0%9C%EC%83%81?type=whiteboard&node-id=0%3A1&t=rUeX71aUqcMR0HA6-1)
 - [와이어프레임 및 디자인](https://www.figma.com/file/z1aPqEK3Z926sfrsXhoomu/SeaLifeBusan_Renewal?type=design&node-id=0%3A1&mode=design&t=aPTFUGLy2yzJkINf-1)
 - [리뉴얼 사이트](https://isabella-kim.github.io/SeaLifeBusanRenewal/)
     
