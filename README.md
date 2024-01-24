@@ -113,9 +113,9 @@
 
 ## 🚀 링크
 
-- [브레인 스토밍](https://www.figma.com/file/oBwENj8ztJ16EG1kEIcWfQ/SeaLifeBusan_BrainStorming?type=whiteboard&node-id=0%3A1&t=MtGvKwQ1gnpEXTrR-1)
+- [브레인 스토밍]([https://www.figma.com/file/oBwENj8ztJ16EG1kEIcWfQ/SeaLifeBusan_BrainStorming?type=whiteboard&node-id=0%3A1&t=MtGvKwQ1gnpEXTrR-1](https://www.figma.com/file/qgus4C2CV7IBBo58946e9B/%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80-%EB%A6%AC%EC%84%9C%EC%B9%98-%EB%B0%8F-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EB%B0%9C%EC%83%81?type=whiteboard&node-id=0%3A1&t=rUeX71aUqcMR0HA6-1))
 
-- [와이어프레임 및 디자인](https://www.figma.com/file/z1aPqEK3Z926sfrsXhoomu/SeaLifeBusan_Renewal?type=design&node-id=0%3A1&mode=design&t=aPTFUGLy2yzJkINf-1)
+- [와이어프레임 및 디자인]([https://www.figma.com/file/z1aPqEK3Z926sfrsXhoomu/SeaLifeBusan_Renewal?type=design&node-id=0%3A1&mode=design&t=aPTFUGLy2yzJkINf-1](https://www.figma.com/file/ZAgOTqfJ2c4XzUFA3Xs2xf/%ED%95%9C%EC%9D%B4%EA%B2%BD_portfolio?type=design&node-id=187%3A677&mode=design&t=9dWx1yEIcWIqRUA5-1)https://www.figma.com/file/ZAgOTqfJ2c4XzUFA3Xs2xf/%ED%95%9C%EC%9D%B4%EA%B2%BD_portfolio?type=design&node-id=187%3A677&mode=design&t=9dWx1yEIcWIqRUA5-1)
 
-- [리뉴얼 사이트](https://isabella-kim.github.io/SeaLifeBusanRenewal/)
+- [리뉴얼 사이트]([https://isabella-kim.github.io/SeaLifeBusanRenewal/](https://github.com/dlrud7113/project02)https://github.com/dlrud7113/project02)
     
